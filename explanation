@@ -1,0 +1,10 @@
+This repository was created by Ben as part of the tutorial
+it doesn't have any meaningful content but exists for us to test out how the system works without any consequences
+we would have to pay a membership fee of 7$(unclear if this is a subscription or one time payment) to have private code repositories
+however this system seems optimized for collaborative projects, such as writing code as a group
+it has functionality for each of us to have a seperate account and then tracks which changes are submited by each person
+It also has a system to manage updating existing content with experimental versions stored as branches
+
+this exists only for me to test out how this system works
+this is some text currently exxclusive to the twig branch of this repository
+if all goes well it should be added to the master branch
